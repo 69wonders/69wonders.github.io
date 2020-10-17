@@ -1,2 +1,5 @@
 # 69wonders.github.io
-Nothing here.
+
+This is the base repo to serve the gh pages.
+
+Nothing here
